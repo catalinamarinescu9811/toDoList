@@ -23,3 +23,7 @@ Steps:
    - append li element to list(ul)
    - add syles for li
    - clear selection from input
+4. The user should be able to delete a todo
+   - the creation of li element must include a button with x content
+   - an event listener must be added when the button is created
+   - the li that contains a button must be removed when delete button is clicked
